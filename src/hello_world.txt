@@ -1,0 +1,3 @@
+Questo è il mio primo software usando Git
+oggi è il 19 novembre e sto facendo delle prove in test
+
