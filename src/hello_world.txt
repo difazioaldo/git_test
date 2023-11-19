@@ -1,3 +1,3 @@
-Questo è il mio primo software usando Git
-oggi è il 19 novembre e sto facendo delle prove in test
+Questo è il mio primo software e sto facendo alcune prove il 19 novembre
+queste prove sono testate e sono ufficiali, questa è la versione in produzione 19 Novembre 2023
 
