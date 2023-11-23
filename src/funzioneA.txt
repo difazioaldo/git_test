@@ -1,1 +1,2 @@
 Questa è una prova ho aggiunto un file aggiuntivo Funzione A sul main
+A breve devo fare un manuale git
